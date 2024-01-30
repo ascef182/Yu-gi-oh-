@@ -7,6 +7,9 @@ Card Duel is a simple strategy game, inspired by the classic "Rock, Paper, Sciss
 ## Final Project
 ![Yu-gi-oh!](https://github.com/ascef182/Yu-gi-oh-/blob/main/src/assets/final-project/final.png)
 
+[**Jogue o Yu-Gi-Oh! **](https://ascef182.github.io/Yu-gi-oh-/)
+
+
 ## How to Contribute
 If you're excited to contribute and improve Card Duel, here are some ways to get started:
 
